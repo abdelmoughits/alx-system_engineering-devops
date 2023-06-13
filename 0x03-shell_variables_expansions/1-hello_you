@@ -1,2 +1,2 @@
-#!/bin/bash
-[[$USER==user]] | echo hello user
+#!/bin/bash 
+echo "hello $USER"
